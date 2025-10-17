@@ -35,8 +35,3 @@ To recreate the model and the output files locally, you just need to run the two
 1.  **Clone the Repository** and ensure you have the necessary Python libraries installed (pandas, scikit-learn, etc.).
 2.  **Run `data_analysis.ipynb`:** Execute all cells to prepare the data and create the splits.
 3.  **Run `modelling.ipynb`:** Execute all cells to train the **ElasticNet** model and generate the final **`model.pkl`** file.
-
-## Contact
-
-[Your Name]
-[Your LinkedIn Profile URL]
