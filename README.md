@@ -25,7 +25,6 @@ This repository is designed to be fully **reproducible**. The final model (`mode
 | :--- | :--- |
 | `data_analysis.ipynb` | **Step 1: Data Detective Work.** This notebook handles data loading, cleaning, **outlier detection** (like checking the 'area' feature), **Exploratory Data Analysis (EDA)**, and splitting the data into training and testing sets. |
 | `modelling.ipynb` | **Step 2: Model Building.** This notebook loads the processed data, performs **model selection**, **hyperparameter tuning** for the ElasticNet model, and finally, saves the trained predictor as `model.pkl`. |
-| `output.jpg` | A visualization showing a key data insight or the model’s performance metrics. |
 
 ---
 
